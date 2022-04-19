@@ -1,5 +1,6 @@
 
-class ListaPokemon(var listaPokemon : MutableList<Pokemon> = mutableListOf()) {
+/*class ListaPokemon(var listaPokemon : MutableList<Pokemon> = mutableListOf()) :
+    MutableList<Pokemon> {
 
 
 
@@ -40,4 +41,6 @@ class ListaPokemon(var listaPokemon : MutableList<Pokemon> = mutableListOf()) {
 
         return ListaPokemon(listaFiltrada.toMutableList())
     }
-}
+
+
+}*/

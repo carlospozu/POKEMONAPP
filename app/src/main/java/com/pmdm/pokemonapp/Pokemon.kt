@@ -1,3 +1,12 @@
+
+
+
+data class PokemonResponse(
+    val results: List<Pokemon>
+)
+
+
+
 data class Pokemon (
     val abilities: List<Ability>,
     val baseExperience: Long,
